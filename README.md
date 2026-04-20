@@ -12,13 +12,10 @@ I’m a CS student focused on building strong fundamentals in programming, probl
 * **Environments:** Ubuntu (Linux), DOSBox, Jupyter Notebook, Oracle DB
 
 
-### 📂 Projects
+###  Projects
 
 I have completed **5–6 academic projects** across core Computer Science subjects:
 
-### 📂 Projects
-
-I have completed several academic projects across core Computer Science subjects:
 
 *  **Space Invasion Game (PF – C++)**
   Developed a console-based game using core programming concepts like loops, functions, and structured logic.
@@ -48,7 +45,7 @@ Designed and developed a responsive café website featuring an online menu and d
 ###  About Me
 
 * 🇵🇰 Based in Pakistan
-* 📚 Currently strengthening my concepts in Data Structures, Artificial Intelligence and low-level programming
+* Currently strengthening my concepts in Data Structures, Artificial Intelligence and low-level programming
 * Interested in writing code that is both **efficient and clean**
 
 
