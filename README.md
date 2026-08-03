@@ -72,11 +72,11 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 | 🚦 **[Traffic Challan System](https://github.com/zainabsiddique716-gif/Traffic_challan)** | Web app to manage and issue traffic violation challans, backed by a relational database and a deployed REST API | Python, Flask, SQL, Vercel |
 | 🗂️ **[GitHub-Like System](https://github.com/zainabsiddique716-gif/Data-Structures-Project)** | Menu-driven system inspired by GitHub — repo creation, commit tracking, and structured data handling using linked lists, stacks, and queues (DSA course) | C++ |
 | 🧱 **[Atari Breakout Game](https://github.com/zainabsiddique716-gif/COAL-Project)** | Low-level implementation of the classic Breakout game using NASM, run in DOSBox (COAL course) | Assembly |
-| ☕ **Online Café Website** | Responsive café website with an online menu and delivery interface | HTML, CSS, JavaScript |
+| ⏱️ **[Study Sprint — Focus Session Tracker](https://github.com/zainabsiddique716-gif/Web_Development-Internship-Task2)** | Focus timer app with sprint/deep-work/break modes, session logging, dark mode, and full WCAG AA accessibility — 100/100 Lighthouse accessibility score | React, TypeScript, Tailwind CSS, Vite |
 
 ---
 
-### 🌱 About Me
+###  About Me
 
 - 🇵🇰 Based in Pakistan
 - 📚 Currently strengthening my concepts in Data Structures, Artificial Intelligence, and low-level programming
@@ -94,7 +94,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 
 `REST API design` · `Authentication & Authorization (JWT)` · `Relational database design` · `Deploying full-stack apps (Vercel / Railway)` · `AI-assisted software engineering`
 
