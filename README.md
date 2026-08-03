@@ -76,7 +76,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 
 ---
 
-###  About Me
+### 🌱 About Me
 
 - 🇵🇰 Based in Pakistan
 - 📚 Currently strengthening my concepts in Data Structures, Artificial Intelligence, and low-level programming
@@ -103,12 +103,12 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainabsiddique716-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=zainabsiddique716-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabsiddique716-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabsiddique716-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainabsiddique716-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
