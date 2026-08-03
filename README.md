@@ -111,11 +111,18 @@ I'm a CS student focused on building strong fundamentals in programming, problem
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainabsiddique716-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+<!--
+### Snake animation (uncomment this and comment out the activity graph below if you'd rather use this instead — requires the .github/workflows/snake.yml setup)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/zainabsiddique716-gif/zainabsiddique716-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
 </p>
+-->
 
-> ⚠️ **Setup reminder:** the snake image above only shows up after you add `.github/workflows/snake.yml` to your profile repo and run the workflow once. Until then it'll show as a broken image.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabsiddique716-gif&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+</p>
+
 
 ---
 
