@@ -59,7 +59,22 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 
 **Core Subjects**
 
-`Programming Fundamentals` · `Data Structures` · `Discrete Structures` · `Database Systems` · `Artificial Intelligence`
+<p>
+  <img src="https://img.shields.io/badge/Programming%20Fundamentals-FF6B6B?style=for-the-badge&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Data%20Structures-4ECDC4?style=for-the-badge&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Discrete%20Structures-FFD93D?style=for-the-badge&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Database%20Systems-6BCB77?style=for-the-badge&labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-C77DFF?style=for-the-badge&labelColor=1A1B27" />
+</p>
+
+---
+
+### 🌱 About Me
+
+- 🇵🇰 Based in Pakistan
+- 📚 Currently strengthening my concepts in Data Structures, Artificial Intelligence, and low-level programming
+- 🎯 Interested in writing code that is both **efficient and clean**
+- 💬 Ask me about C++, Data Structures, or Assembly programming
 
 ---
 
@@ -73,15 +88,6 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 | 🗂️ **[GitHub-Like System](https://github.com/zainabsiddique716-gif/Data-Structures-Project)** | Menu-driven system inspired by GitHub — repo creation, commit tracking, and structured data handling using linked lists, stacks, and queues (DSA course) | C++ |
 | 🧱 **[Atari Breakout Game](https://github.com/zainabsiddique716-gif/COAL-Project)** | Low-level implementation of the classic Breakout game using NASM, run in DOSBox (COAL course) | Assembly |
 | ⏱️ **[Study Sprint — Focus Session Tracker](https://github.com/zainabsiddique716-gif/Web_Development-Internship-Task2)** | Focus timer app with sprint/deep-work/break modes, session logging, dark mode, and full WCAG AA accessibility — 100/100 Lighthouse accessibility score | React, TypeScript, Tailwind CSS, Vite |
-
----
-
-### 🌱 About Me
-
-- 🇵🇰 Based in Pakistan
-- 📚 Currently strengthening my concepts in Data Structures, Artificial Intelligence, and low-level programming
-- 🎯 Interested in writing code that is both **efficient and clean**
-- 💬 Ask me about C++, Data Structures, or Assembly programming
 
 ---
 
@@ -104,7 +110,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=zainabsiddique716-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabsiddique716-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=zainabsiddique716-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
