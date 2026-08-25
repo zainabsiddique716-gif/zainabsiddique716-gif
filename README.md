@@ -112,17 +112,16 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 </p>
 
 <!--
-### Snake animation (uncomment this and comment out the activity graph below if you'd rather use this instead — requires the .github/workflows/snake.yml setup)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zainabsiddique716-gif/zainabsiddique716-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
-</p>
--->
+### Activity graph (uncomment this and comment out the snake animation above if you'd rather use this instead — requires github-readme-activity-graph.vercel.app to be up)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabsiddique716-gif&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
+-->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zainabsiddique716-gif/zainabsiddique716-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+</p>
 
 ---
 
