@@ -112,6 +112,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
   <img src="https://github-stats-extended.vercel.app/api?username=zainabsiddique716-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zainabsiddique716-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainabsiddique716-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zainabsiddique716-gif&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophies" height="165"/>
 </p>
 
 <!--
