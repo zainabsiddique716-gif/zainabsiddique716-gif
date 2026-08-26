@@ -27,7 +27,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly (NASM)-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly%20(NASM)-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -51,6 +51,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -73,7 +74,7 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 
 - 🇵🇰 Based in Pakistan
 - 📚 Currently strengthening my concepts in Data Structures, Artificial Intelligence, and low-level programming
-- 🎯 Interested in writing code that is both **efficient and clean**
+- 🎯 Interested in writing code that is **efficient and clean**
 - 💬 Ask me about C++, Data Structures, or Assembly programming
 
 ---
@@ -110,18 +111,21 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=zainabsiddique716-gif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zainabsiddique716-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainabsiddique716-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
   <img src="https://github-profile-trophy-winning.vercel.app/?username=zainabsiddique716-gif&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophies" height="165"/>
 </p>
 
-<!--
-### Activity graph (uncomment this and comment out the snake animation above if you'd rather use this instead — requires github-readme-activity-graph.vercel.app to be up)
+---
+
+### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabsiddique716-gif&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,ts,react,fastapi,flask,postgresql,mysql,git,github,linux,vscode,visualstudio,vercel,jupyter" />
 </p>
--->
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zainabsiddique716-gif/zainabsiddique716-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
@@ -132,11 +136,21 @@ I'm a CS student focused on building strong fundamentals in programming, problem
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainabsiddique716@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
-  <a href="https://www.linkedin.com/in/zainab-siddique0824/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
-  <a href="https://github.com/zainabsiddique716-gif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zainabsiddique716@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/zainab-siddique0824/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" />
+  </a>
+
+  <a href="https://github.com/zainabsiddique716-gif">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" />
+  </a>
 </p>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
